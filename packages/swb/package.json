@@ -1,0 +1,13 @@
+{
+  "name": "swb",
+  "type": "module",
+  "main": "index.js",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.5.1",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "swa": "1.1.0"
+  }
+}
